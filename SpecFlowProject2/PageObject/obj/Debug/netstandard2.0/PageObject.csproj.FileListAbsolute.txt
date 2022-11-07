@@ -1,0 +1,9 @@
+C:\Users\User\OneDrive\Рабочий стол\3 курс\АСТПП\SpecFlowProject2\PageObject\bin\Debug\netstandard2.0\PageObject.deps.json
+C:\Users\User\OneDrive\Рабочий стол\3 курс\АСТПП\SpecFlowProject2\PageObject\bin\Debug\netstandard2.0\PageObject.dll
+C:\Users\User\OneDrive\Рабочий стол\3 курс\АСТПП\SpecFlowProject2\PageObject\obj\Debug\netstandard2.0\PageObject.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\3 курс\АСТПП\SpecFlowProject2\PageObject\obj\Debug\netstandard2.0\PageObject.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\3 курс\АСТПП\SpecFlowProject2\PageObject\obj\Debug\netstandard2.0\PageObject.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\3 курс\АСТПП\SpecFlowProject2\PageObject\bin\Debug\netstandard2.0\PageObject.pdb
+C:\Users\User\OneDrive\Рабочий стол\3 курс\АСТПП\SpecFlowProject2\PageObject\obj\Debug\netstandard2.0\PageObject.dll
+C:\Users\User\OneDrive\Рабочий стол\3 курс\АСТПП\SpecFlowProject2\PageObject\obj\Debug\netstandard2.0\PageObject.pdb
+C:\Users\User\OneDrive\Рабочий стол\3 курс\АСТПП\SpecFlowProject2\PageObject\obj\Debug\netstandard2.0\PageObject.csproj.CoreCompileInputs.cache
